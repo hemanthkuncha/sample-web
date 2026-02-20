@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hello GOOGLE" %></h2>
+<h2><%= "Hello WATSAPP" %></h2>
 </body>
 </html>
