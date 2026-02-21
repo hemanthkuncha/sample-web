@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Hey Google, i'm fine" %></h2>
+<h2><%= "Hey Google, Done my CICD" %></h2>
 </body>
 </html>
